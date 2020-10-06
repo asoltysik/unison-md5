@@ -6,7 +6,7 @@ Implementation of the MD5 message-digest algorithm in Unison. Based on [pureMD5 
 ## Installation
 
 ```
-.> pull https://github.com/asoltysik/unison-md5:.releases._v1 .external.md5.v1 
+.> pull https://github.com/asoltysik/unison-md5:.releases._v1 external.md5.v1 
 ```
 
 
