@@ -14,7 +14,7 @@ Implementation of the MD5 message-digest algorithm in Unison. Based on [pureMD5 
 
 
 ```
-use external.md5
+use external.md5.v1
 
 md5EncodeAscii "foo"  -- returns ""acbd18db4cc2f85cedef654fccc4a4d8"
 
